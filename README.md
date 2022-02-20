@@ -5,11 +5,12 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hyb2001 alt=hyb2001 /> </p>
 
 <a href="https://github.com/hyb2001">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hyb2001&show_icons=true&include_all_commits=true" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hyb2001&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/hyb2001">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyb2001&layout=compact" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyb2001&layout=compact&count_private=true" />
 </a>
+
 
 Languages and Tools:
 

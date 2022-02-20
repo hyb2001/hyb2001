@@ -1,6 +1,6 @@
 ## Hey 👋, This is Yibei Han
 
-[![Mail Badge](https://img.shields.io/badge/-11812109@mail.sustech.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hanyibei@umich.edu)](mailto:hanyibei@umich.edu) [![Mail Badge](https://img.shields.io/badge/-11812109@mail.sustech.edu.cn-c14438?style=flat&link=mailto:hyb_2001@sjtu.edu.cn)](mailto:hyb_2001@sjtu.edu.cn)  [![Github Badge](https://img.shields.io/badge/-hyb2001-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hyb2001/)](https://www.github.com/hyb2001)
+[![Mail Badge](https://img.shields.io/badge/-hanyibei@umich.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hanyibei@umich.edu)](mailto:hanyibei@umich.edu) [![Mail Badge](https://img.shields.io/badge/-hyb_2001@sjtu.edu.cn-c14438?style=flat&link=mailto:hyb_2001@sjtu.edu.cn)](mailto:hyb_2001@sjtu.edu.cn)  [![Github Badge](https://img.shields.io/badge/-hyb2001-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hyb2001/)](https://www.github.com/hyb2001)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ryyyc alt=ryyyc /> </p>
 

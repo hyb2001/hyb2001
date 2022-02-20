@@ -4,9 +4,8 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hyb2001 alt=hyb2001 /> </p>
 
-![hyb2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyb2001&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyb2001&langs_count=10&count_private=true)
-
+[![hyb2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyb2001&count_private=true)](https://github.com/hyb2001/github-readme-stats)
+[![hyb2001 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyb2001&count_provate=true)](https://github.com/arribass/github-readme-stats)
 
 <!-- Languages and Tools:
 

@@ -4,12 +4,8 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hyb2001 alt=hyb2001 /> </p>
 
-<a href="https://github.com/hyb2001">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hyb2001&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/hyb2001">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyb2001&layout=compact&count_private=true" />
-</a>
+![hyb2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyb2001&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyb2001&langs_count=10&count_private=true)
 
 
 Languages and Tools:

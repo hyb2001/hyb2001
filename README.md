@@ -5,7 +5,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hyb2001 alt=hyb2001 /> </p>
 
 <a href="https://github.com/hyb2001">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryyyc&show_icons=true&include_all_commits=true" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hyb2001&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/hyb2001">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyb2001&layout=compact" />
@@ -19,7 +19,7 @@ Languages and Tools:
 
 
 <!--
-**Ryyyc/ryyyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -32,6 +32,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-————————————————
-版权声明：本文为CSDN博主「@小阮」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/Ussim/article/details/112497557
